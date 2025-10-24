@@ -1,0 +1,45 @@
+새 프로젝트 
+
+- New > Spring Legacy Project > Spring MVC Project
+- Project name: "TilesTest"
+- root package: "com.test.tiles"
+
+
+
+Spring Tiles 설정하기
+
+의존성 추가
+- pom.xml
+
+설정하기
+- servlet-context.xml
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

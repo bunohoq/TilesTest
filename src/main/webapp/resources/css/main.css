@@ -1,0 +1,22 @@
+/* webapp > resources > css > main.css */
+
+main {
+	width: 800px;
+	margin: 0px auto;
+}
+.main-menu {
+	background-color: gold;
+	height: 100px;
+}
+.sub-menu {
+	background-color: yellowgreen;
+	width: 200px;
+	height: 400px;
+	float: left;
+}
+.content {
+	background-color: cornflowerblue;
+	width: 600px;
+	height: 400px;
+	float: left;
+}
